@@ -8,6 +8,3 @@ Adult (20-59),
 Senior (60+)
 """
 
-user_age = int(input("Please enter your age: "))
-
-if user_age > 
