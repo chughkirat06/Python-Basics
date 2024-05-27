@@ -1,5 +1,8 @@
 # Python-Basics
 
-Loop Programs
-Functional Prograams
-Conditional Programs
+<ul>
+  <li>Loop Programs</li>
+  <li>Functional Programs</li>
+  <li>Conditional Programs</li>
+</ul>
+
