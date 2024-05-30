@@ -17,15 +17,6 @@ class Car:
         self.brand = brand
         self.model = model
 
-    def __str__(self) -> str:
-        """
-        Returna string representation of the car object.
-
-        Returns:
-        str: A string describing the car
-        """
-        return f"Brand: {self.brand}, Model: {self.model}"
-
 # Create instances of the car class
 my_car = Car("Toyota", "Corolla")
 my_new_car = Car("Tata", "Safari")
@@ -35,7 +26,3 @@ print(my_car.brand)
 print(my_car.model)
 print(my_new_car.brand)
 print(my_new_car.model)
-
-# Print the string representation of the instances
-print(my_car)
-print(my_new_car)
